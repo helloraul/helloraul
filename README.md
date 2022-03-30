@@ -16,13 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, I am Raul.
 
-<div align="right">
-  <a href="https://aralroca.com/donate">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
-</div>
-
-I'm a Full-Stack developer who likes to work with TensorFlow, SageMaker 
+I'm a Full-Stack Engineer who likes to work with TensorFlow, SageMaker, Big Data problems.
 
 I love to contribute on open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... 
 
