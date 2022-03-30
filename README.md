@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I am Raul.
+
+<div align="right">
+  <a href="https://aralroca.com/donate">
+    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+  </a>
+</div>
+
+I'm a Full-Stack developer who likes to work with TensorFlow, SageMaker 
+
+I love to contribute on open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... 
+
+<br />
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Macro Economics
+* Science
+* Machine learning 
+* Health
+* Nature
+
