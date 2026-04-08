@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, I am Raul.
 
-I'm a Full-Stack Engineer who likes to work with TensorFlow, SageMaker, Big Data problems.
-
-I love to contribute on open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... 
+Engineering Manager building AI platforms and distributed systems at scale | LLM/RAG, Kubernetes, Data Systems | Player-coach leader
 
 <br />
 
