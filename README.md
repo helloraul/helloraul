@@ -24,7 +24,6 @@ Engineering Manager building AI platforms and distributed systems at scale | LLM
 
 * Technology and software
 * Macro Economics
-* Science
 * Machine learning 
 * Health
 * Nature
