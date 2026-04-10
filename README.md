@@ -14,9 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I am Raul.
+## Raul Sharma
 
-Engineering Manager building AI platforms and distributed systems at scale | LLM/RAG, Kubernetes, Data Systems | Player-coach leader
+Engineering Manager | AI Systems | Distributed Systems | Player-coach
+
+I build and deploy production AI systems at scale, including GPT-powered and RAG-based platforms processing billions of events daily.
+
+Focus areas:
+- LLM systems (RAG, inference optimization)
+- Distributed systems (Kafka, real-time streaming)
+- Production AI deployment
+
+Featured Projects:
+- LLM RAG Production System
+- Distributed Event Pipeline
 
 <br />
 
