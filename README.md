@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Raul Sharma
+## Raul (Rauu-ol)
 
 Engineering Manager | AI Systems | Distributed Systems | Player-coach
 
