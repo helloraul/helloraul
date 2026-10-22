@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 Engineering Manager | AI Systems | Distributed Systems | Player-coach
 
-I build and deploy production AI systems at scale, including GPT-powered and RAG-based platforms processing billions of events daily.
+I lead engineering teams building production AI systems and work hands-on with Python, RAG, agent orchestration, evaluation, and distributed infrastructure.
+
+My focus is taking complex AI workflows from technical architecture through reliable deployment, with particular attention to customer requirements, observability, security, and measurable outcomes.
+
+Featured project: Multimodal RAG Platform — a multi-agent document intelligence system exploring LangGraph orchestration, retrieval, failure handling, and evaluation.
 
 Focus areas:
 - LLM systems (RAG, inference optimization)
